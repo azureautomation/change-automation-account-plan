@@ -1,0 +1,20 @@
+{
+    "Author": "Stas Kuvshinov",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/change-automation-account-plan/master/Change-AutomationAccountPlan.graphrunbook",
+    "DownloadCount": 617,
+    "Id": "Change-Automation-Account-cb931bd9",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 505,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-28T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "The runbook changes Plan Type for Automation Account(s) in the Azure subscription.You can attach a recurring schedule to this runbook to run it at the beginning of billing cycle to switch account plans type to \"Free\" and when free minutes are over - switch to \"Basic\" plan.",
+    "Title": "Change Automation Account Plan",
+    "UpdatedDate": "2016-5-28T00:00:00",
+    "Url": "https://github.com/azureautomation/change-automation-account-plan",
+    "UserTags": "Automation, Billing, GraphicalPS"
+}
